@@ -1,0 +1,35 @@
+.DS_Store
+node_modules
+/dist
+
+/tests/e2e/reports/
+selenium-debug.log
+.scannerwork/**
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+*.iml
+/src/**/*.js.map
+/*.log
+/tests/unit/*.js
+/tests/unit/*.js.map
+.history
+yarn.lock
+/public/config/platform/pc/config.js
+/public/config/run-type/config.js
+/public/seed-config/**/**
