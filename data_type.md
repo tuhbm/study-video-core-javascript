@@ -1,6 +1,6 @@
 # data type
 
-![data type](./data_type1.PNG)
+![data type](img/data_type1.PNG)
 
 ## memory
 ### stack memory
